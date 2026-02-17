@@ -54,7 +54,7 @@ Developing and maintaining Beautiful Jekyll takes a lot of time and effort - tha
 
 [Become a sponsor for Beautiful Jekyll and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)
 
-<div class="gs-section-01">
+<div class="gs-section-01" markdown="1">
 
 
 # Build your website in 3 steps
@@ -283,13 +283,15 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-03 h3 { 
      color: #BDEBE1;
-     text-align: center;
-     padding: 14px;
-     background-color: #071815}
+     text-align: right;
+     padding: 7px;
+     background-color: cornflowerblue}
 
 .gs-section-03 p {
      font-size: 15px;
-     margin: 10px;
+     margin: 0px;
+     padding: 5px;
+     color: forestgreen
 }
 
 </style>
