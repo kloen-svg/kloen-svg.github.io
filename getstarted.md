@@ -249,6 +249,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 p {
      font-size: 45px;
      margin: 10px;
+     font-family: "Verdana";
 }
 
 </style>
@@ -290,6 +291,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-03 p {
      font-size: 15px;
+     font-stretch: ultra-expanded;
      margin: 0px;
      padding: 5px;
      color: forestgreen
