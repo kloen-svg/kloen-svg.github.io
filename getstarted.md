@@ -244,7 +244,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: #BDEBE1;
      text-align: center;
      padding: 14px;
-     background-color: #071815}
+     background-color: #071815;
+}
 
 .gs-section-01 p {
      font-size: 45px;
@@ -261,11 +262,16 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      text-align: left;
      padding: 30px;
      font-size: 75px;
+     text-shadow: 2px 2px 5px green;
      }
 
 .gs-section-02 p {
-     font-size: 45px;
-     margin: 10px;}
+     font-size: 25px;
+     margin: 10px;
+     color: #ffbb28;
+     text-decoration-line: underline;
+     text-decoration-style: wavy;
+}
 
   .gs-section-02 a {
   color: #86649b;
@@ -273,11 +279,15 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   -ms-transition:.5s;
   -moz-transition:.5s;
   -webkit-transition:.5s;
-   transition: 0.5s';}
+   transition: 0.5s;
+  
+  }
 
-  .gs-section-02 a:hover { color: #83C245 ;}
+  .gs-section-02 a:hover {
+       color: #83C245;
+  }
     
-}
+
 
 </style>
 
@@ -287,14 +297,16 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: #BDEBE1;
      text-align: right;
      padding: 7px;
-     background-color: cornflowerblue}
+     background-color: cornflowerblue;
+     opacity: 0.75;
+}
 
 .gs-section-03 p {
      font-size: 15px;
      font-stretch: ultra-expanded;
      margin: 0px;
      padding: 5px;
-     color: forestgreen
+     color: forestgreen;
 }
 
 </style>
