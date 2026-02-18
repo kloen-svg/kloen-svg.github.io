@@ -259,7 +259,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-02 h3 { 
-     color: chocolate;
+     color: #2F4F4F;
      text-align: left;
      padding: 30px;
      font-size: 75px;
@@ -269,7 +269,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-02 p {
      font-size: 25px;
      margin: 10px;
-     color: #ffbb28;
+     color: chocolate;
      text-decoration-line: underline;
      text-decoration-style: wavy;
 }
